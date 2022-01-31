@@ -515,7 +515,8 @@ public class CellularAutomataModel {
 		double alpha;
 		double beta;
 		int timeSteps;
-
+		
+		System.out.println("HELLO THIS IS MY PROJECT0 ASSIGNMENT MODIFICATION");
 		// Call methods to accept the user input
 		outFile = fileReader();
 		numOfIndividuals = userInputIndividuals(scnr);
